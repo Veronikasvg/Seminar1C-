@@ -1,0 +1,15 @@
+C:\Users\Mars\Desktop\Sem1\program10\bin\Debug\net6.0\program10.exe
+C:\Users\Mars\Desktop\Sem1\program10\bin\Debug\net6.0\program10.deps.json
+C:\Users\Mars\Desktop\Sem1\program10\bin\Debug\net6.0\program10.runtimeconfig.json
+C:\Users\Mars\Desktop\Sem1\program10\bin\Debug\net6.0\program10.dll
+C:\Users\Mars\Desktop\Sem1\program10\bin\Debug\net6.0\program10.pdb
+C:\Users\Mars\Desktop\Sem1\program10\obj\Debug\net6.0\program10.csproj.AssemblyReference.cache
+C:\Users\Mars\Desktop\Sem1\program10\obj\Debug\net6.0\program10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mars\Desktop\Sem1\program10\obj\Debug\net6.0\program10.AssemblyInfoInputs.cache
+C:\Users\Mars\Desktop\Sem1\program10\obj\Debug\net6.0\program10.AssemblyInfo.cs
+C:\Users\Mars\Desktop\Sem1\program10\obj\Debug\net6.0\program10.csproj.CoreCompileInputs.cache
+C:\Users\Mars\Desktop\Sem1\program10\obj\Debug\net6.0\program10.dll
+C:\Users\Mars\Desktop\Sem1\program10\obj\Debug\net6.0\refint\program10.dll
+C:\Users\Mars\Desktop\Sem1\program10\obj\Debug\net6.0\program10.pdb
+C:\Users\Mars\Desktop\Sem1\program10\obj\Debug\net6.0\program10.genruntimeconfig.cache
+C:\Users\Mars\Desktop\Sem1\program10\obj\Debug\net6.0\ref\program10.dll

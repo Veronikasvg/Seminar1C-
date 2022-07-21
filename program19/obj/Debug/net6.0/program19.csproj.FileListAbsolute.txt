@@ -1,0 +1,15 @@
+C:\Users\Mars\Desktop\Sem1\program19\obj\Debug\net6.0\program19.csproj.AssemblyReference.cache
+C:\Users\Mars\Desktop\Sem1\program19\obj\Debug\net6.0\program19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mars\Desktop\Sem1\program19\obj\Debug\net6.0\program19.AssemblyInfoInputs.cache
+C:\Users\Mars\Desktop\Sem1\program19\obj\Debug\net6.0\program19.AssemblyInfo.cs
+C:\Users\Mars\Desktop\Sem1\program19\obj\Debug\net6.0\program19.csproj.CoreCompileInputs.cache
+C:\Users\Mars\Desktop\Sem1\program19\bin\Debug\net6.0\program19.exe
+C:\Users\Mars\Desktop\Sem1\program19\bin\Debug\net6.0\program19.deps.json
+C:\Users\Mars\Desktop\Sem1\program19\bin\Debug\net6.0\program19.runtimeconfig.json
+C:\Users\Mars\Desktop\Sem1\program19\bin\Debug\net6.0\program19.dll
+C:\Users\Mars\Desktop\Sem1\program19\bin\Debug\net6.0\program19.pdb
+C:\Users\Mars\Desktop\Sem1\program19\obj\Debug\net6.0\program19.dll
+C:\Users\Mars\Desktop\Sem1\program19\obj\Debug\net6.0\refint\program19.dll
+C:\Users\Mars\Desktop\Sem1\program19\obj\Debug\net6.0\program19.pdb
+C:\Users\Mars\Desktop\Sem1\program19\obj\Debug\net6.0\program19.genruntimeconfig.cache
+C:\Users\Mars\Desktop\Sem1\program19\obj\Debug\net6.0\ref\program19.dll

@@ -1,0 +1,15 @@
+C:\Users\Mars\Desktop\Sem1\program26\bin\Debug\net6.0\program26.exe
+C:\Users\Mars\Desktop\Sem1\program26\bin\Debug\net6.0\program26.deps.json
+C:\Users\Mars\Desktop\Sem1\program26\bin\Debug\net6.0\program26.runtimeconfig.json
+C:\Users\Mars\Desktop\Sem1\program26\bin\Debug\net6.0\program26.dll
+C:\Users\Mars\Desktop\Sem1\program26\bin\Debug\net6.0\program26.pdb
+C:\Users\Mars\Desktop\Sem1\program26\obj\Debug\net6.0\program26.csproj.AssemblyReference.cache
+C:\Users\Mars\Desktop\Sem1\program26\obj\Debug\net6.0\program26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mars\Desktop\Sem1\program26\obj\Debug\net6.0\program26.AssemblyInfoInputs.cache
+C:\Users\Mars\Desktop\Sem1\program26\obj\Debug\net6.0\program26.AssemblyInfo.cs
+C:\Users\Mars\Desktop\Sem1\program26\obj\Debug\net6.0\program26.csproj.CoreCompileInputs.cache
+C:\Users\Mars\Desktop\Sem1\program26\obj\Debug\net6.0\program26.dll
+C:\Users\Mars\Desktop\Sem1\program26\obj\Debug\net6.0\refint\program26.dll
+C:\Users\Mars\Desktop\Sem1\program26\obj\Debug\net6.0\program26.pdb
+C:\Users\Mars\Desktop\Sem1\program26\obj\Debug\net6.0\program26.genruntimeconfig.cache
+C:\Users\Mars\Desktop\Sem1\program26\obj\Debug\net6.0\ref\program26.dll

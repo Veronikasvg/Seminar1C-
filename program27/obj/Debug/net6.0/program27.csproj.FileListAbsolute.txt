@@ -1,0 +1,15 @@
+C:\Users\Mars\Desktop\Sem1\program27\bin\Debug\net6.0\program27.exe
+C:\Users\Mars\Desktop\Sem1\program27\bin\Debug\net6.0\program27.deps.json
+C:\Users\Mars\Desktop\Sem1\program27\bin\Debug\net6.0\program27.runtimeconfig.json
+C:\Users\Mars\Desktop\Sem1\program27\bin\Debug\net6.0\program27.dll
+C:\Users\Mars\Desktop\Sem1\program27\bin\Debug\net6.0\program27.pdb
+C:\Users\Mars\Desktop\Sem1\program27\obj\Debug\net6.0\program27.csproj.AssemblyReference.cache
+C:\Users\Mars\Desktop\Sem1\program27\obj\Debug\net6.0\program27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mars\Desktop\Sem1\program27\obj\Debug\net6.0\program27.AssemblyInfoInputs.cache
+C:\Users\Mars\Desktop\Sem1\program27\obj\Debug\net6.0\program27.AssemblyInfo.cs
+C:\Users\Mars\Desktop\Sem1\program27\obj\Debug\net6.0\program27.csproj.CoreCompileInputs.cache
+C:\Users\Mars\Desktop\Sem1\program27\obj\Debug\net6.0\program27.dll
+C:\Users\Mars\Desktop\Sem1\program27\obj\Debug\net6.0\refint\program27.dll
+C:\Users\Mars\Desktop\Sem1\program27\obj\Debug\net6.0\program27.pdb
+C:\Users\Mars\Desktop\Sem1\program27\obj\Debug\net6.0\program27.genruntimeconfig.cache
+C:\Users\Mars\Desktop\Sem1\program27\obj\Debug\net6.0\ref\program27.dll
